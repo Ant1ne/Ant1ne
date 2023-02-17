@@ -3,30 +3,30 @@
 ### I'm a Web Developer!
 
 - 🔭 I am working on a React, Redux and Typescript.
-- 🌱 I’m currently learning NodeJS and ExpressJS via [Integrify][integrify-website]'s Full Stack program.
+- 🌱 I’m currently learning Backend languages such as Node.js, Express.js and working with MongoDB with [Integrify][integrify-website]
 - 🥅 2023 Goals: finding my first role as a Web Developer.
-- 🤔 I’m looking forward to learn Back-end languages.
-- ⚡ Fun fact: I love sports, yoga, meditation, music and reading books.
+- 🤔 I’m looking forward to keep practicing what I have learnt so far.
+- ⚡ Little about me: I love sports, yoga, meditation, music and reading books.
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoineaubard)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/antoineaubard)
-[![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=plastic)](https://dev.to/ant1ne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoineaubard)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/antoineaubard)
+[![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ant1ne)
 
 ### 🛠️ My Favorite Tools:
 
 #### 💻 Software and Tools
 
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
-![iTerm2 Badge](https://img.shields.io/badge/iTerm2-000?logo=iterm2&logoColor=fff&style=plastic)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
-![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=plastic)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![iTerm2 Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![FileZilla Badge](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=plastic)
 ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic)
-![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=plastic)
+![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 #### 👨‍💻 Programming and Markup Languages
 
@@ -51,12 +51,14 @@
 #### 🗄️ Databases and Cloud Hosting
 
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br />
 
 ### :chart_with_upwards_trend: The STATS 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ant1ne&show_icons=true&count_private=true&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ant1ne&show_icons=true&count_private=true&theme=tokyonight)
+![Most Used Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=ant1ne&theme=blue-green)
 
 <!---
 Ant1ne/Ant1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
