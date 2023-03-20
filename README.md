@@ -1,12 +1,14 @@
-# Bonjour, I’m [Antoine][website] 👋
+# Bonjour, hello, hej I’m [Antoine][website] 👋
 
-### I'm a Junior Full Stack Developer!
+### A full stack developer living in Sweden 🇸🇪
 
-- 🔭 I am working on React, Redux and Typescript.
-- 🌱 I’m currently learning Backend languages such as Node.js, Express.js and working with MongoDB with [Integrify][integrify-website]
+- 🔭 I like to **work** with on React.js, Redux and Typescript 💻. 
+- 🌱 I’m currently studying **Fullstack Development** at [Integrify][integrify-website]
+- 🤝 I like to work in a **team**, I am **fearless** and **love to learn** new technology.
 - 🥅 2023 Goals: finding my first role as a Junior Full Stack Developer.
 - 🤔 I’m looking forward to keep practicing what I have learnt so far.
-- ⚡ Little about me: I love spending time with my family, practice sports, yoga, meditation, music and reading books.
+- 💬 I speak French 🇫🇷, English 🇬🇧 and Swedish 🇸🇪.
+- ⚡ Little about me: I love spending time with my family, practice sports (🏋️‍♂️, ⚽, 🎾, 🏄‍♂️), yoga 🧘‍♂️, meditation 🪷, music 🎵 and reading books 📚.
 
 ### 📫 Connect with me:
 
