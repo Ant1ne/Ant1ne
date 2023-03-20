@@ -2,7 +2,7 @@
 
 ### I'm a Junior Full Stack Developer!
 
-- 🔭 I am working on a React, Redux and Typescript.
+- 🔭 I am working on React, Redux and Typescript.
 - 🌱 I’m currently learning Backend languages such as Node.js, Express.js and working with MongoDB with [Integrify][integrify-website]
 - 🥅 2023 Goals: finding my first role as a Junior Full Stack Developer.
 - 🤔 I’m looking forward to keep practicing what I have learnt so far.
@@ -59,6 +59,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ant1ne&show_icons=true&count_private=true&theme=tokyonight)
 ![Most Used Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=ant1ne&theme=blue-green)
+![Visitor Count](https://profile-counter.glitch.me/Ant1ne/count.svg)
 
 <!---
 Ant1ne/Ant1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
