@@ -3,9 +3,7 @@
 ### A full stack developer living in Sweden 🇸🇪
 
 - 🔭 I like to **work** with on React.js, Redux and Typescript 💻. 
-- 🌱 Certified on **Fullstack Development** by [Integrify][integrify-website]
 - 🤝 I like to work in a **team**, I am **fearless** and **love to learn** new technology.
-- 🥅 2023 Goals: finding my first role as a Junior Full Stack Developer.
 - 🤔 I’m looking forward to keep practicing what I have learnt so far.
 - 💬 I speak French 🇫🇷, English 🇬🇧 and Swedish 🇸🇪.
 - ⚡ Little about me: I love spending time with my family, practice sports (🏋️‍♂️, ⚽, 🎾, 🏄‍♂️), yoga 🧘‍♂️, meditation 🪷, music 🎵 and reading books 📚.
